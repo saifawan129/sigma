@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="sigma.css">
+</head>
+<body>
+    <div>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum aperiam similique officia quisquam, rem tempora nam soluta exercitationem! Sed reiciendis eum dolore eos expedita adipisci minus accusantium incidunt perferendis tempore.
+
+        </p>
+        <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex vitae cumque facilis possimus sed cupiditate nobis laborum, molestiae, expedita natus fuga dolor illo optio praesentium fugiat assumenda! Totam quia ut ea fugiat repellat minus?
+        </p>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore voluptatibus soluta minima eaque, sit, placeat facilis dolor incidunt tempora hic numquam iure perferendis! Unde asperiores ut ipsa, veritatis deleniti ipsum voluptatem distinctio tempora iusto.
+        </p>
+    </div>
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur eligendi itaque, nemo officia ipsam fuga voluptatibus, eius iusto voluptates quasi aliquam doloribus dignissimos.</p>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque modi distinctio cupiditate minima. Accusantium harum natus, autem quas repellat magnam! Iste, nihil impedit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet assumenda, alias reprehenderit vitae at possimus tenetur! Soluta sint voluptates saepe voluptatem minus at.</p>
+    </div>
+</body>
+</html>
